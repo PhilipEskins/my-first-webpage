@@ -3,7 +3,8 @@
 
 #### By Philip Eskins
 
-## Example website to demonstrate my growing HTML skills
+## Description
+Example website to demonstrate my growing programming skills
 
 ## Setup
 * Clone repository
@@ -11,6 +12,7 @@
 
 ## Technologies Used
 * HTML
+* CSS
 
 ### Change Log
 * Added CSS style sheet 12-17-18
