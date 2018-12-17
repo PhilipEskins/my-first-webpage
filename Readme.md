@@ -1,5 +1,5 @@
 # My first Webpage
-#### Example webpage Last Updated 12-16-18
+#### Example webpage Last Updated 12-17-18
 
 #### By Philip Eskins
 
@@ -11,6 +11,9 @@
 
 ## Technologies Used
 * HTML
+
+### Change Log
+* Added CSS style sheet 12-17-18
 
 ### License
 This software is licensed under the MIT license.
