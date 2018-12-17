@@ -6,8 +6,8 @@
 ## Example website to demonstrate my growing HTML skills
 
 ## Setup
-*Clone repository
-*Open in web browser of choice
+* Clone repository
+* Open in web browser of choice
 
 ## Technologies Used
 * HTML
