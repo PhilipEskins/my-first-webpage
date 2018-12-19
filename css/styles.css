@@ -48,5 +48,17 @@ a:visited {
 
 a:hover {
   color: red;
-  font-size: 30px;
+  font-weight: bold;
+}
+
+table {
+  width: 100%;
+}
+
+td {
+  border-right: 1px solid #0088dd;
+  border-top: 1px solid #0088dd;
+  border-bottom: 1px solid #0088dd;
+  border-left: 1px solid #0088dd;
+  text-align: center;
 }
